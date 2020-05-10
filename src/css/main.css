@@ -58,6 +58,15 @@
     @apply border-white border-b;
 }
 
+nav {
+  z-index: 10
+}
+
+nav.scrolled {
+  @apply shadow-2xl;
+  border-bottom: 0px;
+}
+
 .content-wrapper {
   transition: background-color .25s;
 }
