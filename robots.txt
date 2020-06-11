@@ -1,4 +1,3 @@
 User-Agent: *
-Disallow: 
 
 Sitemap: https://rsornellas.github.io/sitemap.xml
